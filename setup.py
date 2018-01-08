@@ -13,7 +13,7 @@ A simplized autoreload module from django, and can install without django indepe
       author='heli',
       author_email='bbhe_work@163.com',
       url='',
-      license='',
+      license='BSD License',
       packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
       include_package_data=True,
       zip_safe=True,
